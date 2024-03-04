@@ -1,1 +1,1 @@
-This repo contains dependencies and scripts utilized in the implementation of DNABERT for cell-type predictions from DHS sequences, and downstream analyses.
+This repo contains dependencies and scripts utilized in the implementation of DNABERT for cell-type predictions from DHS sequences, and downstream analyses. Issues were faced with package dependencies for DNABERT implementation, but I will continue to troubleshoot these issues for project implementation.
