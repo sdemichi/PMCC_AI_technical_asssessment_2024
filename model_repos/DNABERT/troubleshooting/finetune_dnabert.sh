@@ -2,7 +2,7 @@
 export KMER=6
 export MODEL_PATH='/path/to/datasets/6-new-12w-0/'
 export DATA_PATH='/path/to/datasets/tokenized_seq_training.txt'
-export OUTPUT_PATH='path/to/datasets/finetuned_model/'
+export OUTPUT_PATH='/path/to/datasets/finetuned_model/'
 
 # Fine-tune the model. Parameters adjusted according to the resources allocated to the job.
 python /path/to/DNABERT/examples/run_finetune.py \
