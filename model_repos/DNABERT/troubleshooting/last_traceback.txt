@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/cluster/home/sdemichi/DNABERT/examples/run_finetune.py", line 37, in <module>
+    from transformers import (
+  File "/cluster/home/sdemichi/software/conda/miniconda3/envs/dnabert_v2/lib/python3.6/site-packages/transformers/__init__.py", line 12, in <module>
+    import absl.logging
+  File "/cluster/home/sdemichi/software/conda/miniconda3/envs/dnabert_v2/lib/python3.6/site-packages/absl/logging/__init__.py", line 97, in <module>
+    from absl import flags
+  File "/cluster/home/sdemichi/software/conda/miniconda3/envs/dnabert_v2/lib/python3.6/site-packages/absl/flags/__init__.py", line 35, in <module>
+    from absl.flags import _argument_parser
+  File "/cluster/home/sdemichi/software/conda/miniconda3/envs/dnabert_v2/lib/python3.6/site-packages/absl/flags/_argument_parser.py", line 82, in <module>
+    class ArgumentParser(Generic[_T], metaclass=_ArgumentParserCache):
+TypeError: metaclass conflict: the metaclass of a derived class must be a (non-strict) subclass of the metaclasses of all its bases
