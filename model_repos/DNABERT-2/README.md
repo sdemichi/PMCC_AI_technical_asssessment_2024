@@ -1,1 +1,1 @@
-This repo contains all code and dependencies required for the implementation of DNABERT-2 (an updated version of the original DNABERT) for cell type prediction from DHS sequences.
+This repo contains all code and dependencies required for the implementation of DNABERT-2 (an updated version of the original DNABERT) for cell type prediction from DHS sequences, and downstream analyses.
