@@ -1,1 +1,2 @@
 This repo contains all code and dependencies required for the implementation of DNABERT-2 (an updated version of the original DNABERT) for cell type prediction from DHS sequences, and downstream analyses.
+Conda environment created using instructions from https://github.com/MAGICS-LAB/DNABERT_2/tree/main.
