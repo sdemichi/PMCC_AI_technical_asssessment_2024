@@ -1,5 +1,10 @@
 # PMCC_AI_technical_asssessment_2024
-This is the project directory for ongoing analyses in the technical assessment for the Computational Biology role as a part of the PMCC AI team at UHN. I enjoyed working on this project, and will continue to update results as they become available. Will incorporate as a finished product in my portfolio once complete.
+This is the project directory for ongoing analyses in the technical assessment for the Computational Biology role as a part of the PMCC AI team at UHN. I enjoyed working on this project, and will continue to update results as they become available. I will incorporate as a finished product in my portfolio once complete.
+
+## Project Background
+Deep learning models have demonstrated promise in discovery of novel cis-regulatory patterns from DNA sequences(Kelley et al. 2016; Li et al. 2023). Foundation models have recently expanded on this repertoire of tools. One example is DNABERT(Ji et al. 2021), a transformer model capable of considering the context of surrounding DNA sequences for cis-regulatory element prediction, demonstrating accuracy and efficiency of prediction of genome-wide regulatory elements.
+
+The goal of this project was to utilize the pre-trained model (DNABERT-6) for fine tuning and prediction of the regulatory programs from Meuleman et al.(Meuleman et al. 2020), to establish whether the underlying DHS sequences can be used to classify the samples into the 16 established signatures.
 
 ## 1. Environment setup
 
